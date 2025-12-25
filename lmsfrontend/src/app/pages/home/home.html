@@ -1,0 +1,46 @@
+<!-- <h2>User Profile</h2>
+
+<ng-container *ngIf="user; else loading">
+  <div class="row">
+    <strong>Full Name:</strong>
+    {{ user.firstName }} {{ user.lastName }}
+  </div>
+
+  <div class="row">
+    <strong>Email:</strong>
+    {{ user.email }}
+  </div>
+
+  <div class="row">
+    <strong>Role:</strong>
+    {{ user.role }}
+  </div>
+
+  <div class="row">
+    <strong>Created At:</strong>
+    {{ user.createdAt | date:'medium' }}
+  </div>
+</ng-container>
+
+<ng-template #loading>
+  <div class="skeleton"></div>
+</ng-template> -->
+<div class="container-fluid bg-light min-vh-100 py-4">
+
+  <!-- Success Banner (temporary test) -->
+  <!-- <div class="container mb-4">
+    <div class="alert alert-success text-center shadow-sm">
+      Bootstrap is working 
+    </div>
+  </div> -->
+
+  <!-- Greeting Section -->
+  <div class="container mb-4">
+    <h1 class="fw-bold">
+      Hi, {{user.firstName}} {{user.lastName}} <span class="ms-2"></span>
+    </h1>
+  
+  </div>
+
+</div>
+

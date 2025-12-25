@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\repo\\impcandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repo\\impcandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\interfaces\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\api\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\persistence\\cosmoscontainerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\cosmoscontainerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\dto\\candidaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dto\\candidaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\interfaces\\ivoterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\ivoterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\interfaces\\ivoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\ivoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\services\\votingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\votingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\repo\\impvoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repo\\impvoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\persistence\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\dto\\castvoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dto\\castvoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\repo\\impvoterrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repo\\impvoterrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\api\\controllers\\votercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\votercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\entities\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\applicationcore\\entities\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD6CA5-A2C3-3C74-6E61-E23FA1AB9B98}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\91988\\source\\repos\\brilasoftrepo\\backend\\fullstackapi\\infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T01:17:05.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\CandidateService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CandidateService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T00:25:07.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosContainerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Persistence\\CosmosContainerFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\CosmosContainerFactory.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Persistence\\CosmosContainerFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\CosmosContainerFactory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:32:09.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "API\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:07:33.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpCandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Repo\\ImpCandidateRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repo\\ImpCandidateRepository.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Repo\\ImpCandidateRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repo\\ImpCandidateRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:40:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\ICandidateRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\ICandidateRepository.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\ICandidateRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\ICandidateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:28:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:05:02.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:28:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Candidate.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:51:21.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\CandidateRequest.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DTO\\CandidateRequest.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\CandidateRequest.cs",
+              "RelativeToolTip": "ApplicationCore\\DTO\\CandidateRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:19:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usermodel.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Usermodel.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Usermodel.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Usermodel.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Usermodel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:51:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:04:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DTO\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "ApplicationCore\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:55:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVoterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IVoterRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IVoterRepository.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IVoterRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IVoterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T21:59:56.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IVoteRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IVoteRepository.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IVoteRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IVoteRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T21:59:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:39:05.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DTO\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\AuthResponse.cs",
+              "RelativeToolTip": "ApplicationCore\\DTO\\AuthResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:18:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:34:21.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VotingService.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\VotingService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\VotingService.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\VotingService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\VotingService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T21:59:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImpVoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Repo\\ImpVoteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repo\\ImpVoteRepository.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Repo\\ImpVoteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repo\\ImpVoteRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:12:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "ApplicationCore\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:20:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CosmosDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Persistence\\CosmosDbSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\CosmosDbSettings.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Persistence\\CosmosDbSettings.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\CosmosDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:33:19.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CastVoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\CastVoteRequest.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DTO\\CastVoteRequest.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\DTO\\CastVoteRequest.cs",
+              "RelativeToolTip": "ApplicationCore\\DTO\\CastVoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:18:30.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImpVoterRepository .cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Repo\\ImpVoterRepository .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repo\\ImpVoterRepository .cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Repo\\ImpVoterRepository .cs",
+              "RelativeToolTip": "Infrastructure\\Repo\\ImpVoterRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:00:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VoterController.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\VoterController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\VoterController.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\VoterController.cs",
+              "RelativeToolTip": "API\\Controllers\\VoterController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T21:57:19.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:34:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Vote.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Vote.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Vote.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Vote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:51:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Voter.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Voter.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Voter.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\Entities\\Voter.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Voter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:47:47.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:04:23.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

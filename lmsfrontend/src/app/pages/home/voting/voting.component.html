@@ -1,0 +1,76 @@
+
+
+<div class="container-fluid bg-light min-vh-100 py-4">
+
+ 
+   <div class="container mb-4 fw-bold">
+    <div class="alert alert-success text-center shadow-sm">
+    <h1>Voting Report</h1>
+    </div>
+  </div> 
+
+
+  <div class="container mb-4">
+    
+    <div class="lists">
+  <!-- Voters -->
+  <div class="card">
+    <h1 >
+      Voters
+    </h1>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Has voted</th>
+      </tr>
+      <tr *ngFor="let v of voters">
+        <td>{{ v.name }}</td>
+        <td>{{ v.hasVoted ? '✔' : '✖' }}</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Candidates -->
+  <div class="card">
+    <h1 >Candidates</h1>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Votes</th>
+      </tr>
+      <tr *ngFor="let c of candidates">
+        <td>{{ c.name }}</td>
+        <td>{{ c.voteCount }}</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<hr />
+
+<h3>Vote!</h3>
+
+<div class="vote-form">
+  <select [(ngModel)]="selectedVoterId">
+    <option value="">I am</option>
+    <option *ngFor="let v of voters" [value]="v.id">
+      {{ v.name }}
+    </option>
+  </select>
+
+  <select [(ngModel)]="selectedCandidateId">
+    <option value="">I vote for</option>
+    <option *ngFor="let c of candidates" [value]="c.id">
+      {{ c.name }}
+    </option>
+  </select>
+
+  <button (click)="submitVote()">Submit</button>
+</div>
+  
+  </div>
+
+</div>
+
+
+

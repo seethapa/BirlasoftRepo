@@ -1,0 +1,12 @@
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\bin\Release\net8.0\ApplicationCore.deps.json
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\bin\Release\net8.0\ApplicationCore.dll
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\bin\Release\net8.0\ApplicationCore.pdb
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.dll
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\refint\ApplicationCore.dll
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ApplicationCore.pdb
+D:\Program\DotNetWorkspace\repo\dotnet-net8-angular-sql\backend\FullStackAPI\ApplicationCore\obj\Release\net8.0\ref\ApplicationCore.dll
