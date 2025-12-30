@@ -1,0 +1,41 @@
+<div class="d-flex justify-content-center align-items-center vh-100">
+  <div class="card p-4 shadow-sm" style="width: 400px;">
+<form (ngSubmit)="onSubmit()">
+  <h3 class="fw-bold mb-1">Welcome Back </h3>
+  <p class="text-muted mb-4"></p>
+
+  <!-- Email -->
+  <div class="mb-3 position-relative">
+    <i class="bi bi-envelope position-absolute top-50 start-0 translate-middle-y ms-3 text-muted"></i>
+    <input [(ngModel)]="email" name="email" required 
+      type="email"
+      class="form-control form-control-custom"
+      placeholder="Enter your email"
+    />
+  </div>
+
+  <!-- Password -->
+  <div class="mb-3 w-100 position-relative">
+    <i class="bi bi-lock position-absolute top-50 start-0 translate-middle-y ms-3 text-muted"></i>
+    <input [(ngModel)]="password" name="password" required 
+      type="password"
+      class="form-control form-control-custom"
+      placeholder="Enter your password"
+    />
+  </div>
+
+  <button type="submit" class="btn btn-primary-custom w-100 mb-3">
+    Login
+  </button>
+
+  <div class="text-center">
+    <a class="link-primary-custom">Forgot password?</a>
+  </div>
+
+  <div class="text-center text-muted mt-3">
+    New here?
+    <a class="link-primary-custom">Sign up</a>
+  </div> 
+   <p *ngIf="error" style="color:red">{{ error }}</p>
+</form>
+  </div></div>

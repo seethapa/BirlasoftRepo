@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AqdO41GFz5E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91988\\source\\repos\\brilasoftrepo\\backend\\FullStackAPI\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91988\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
